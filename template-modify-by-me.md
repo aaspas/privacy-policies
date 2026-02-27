@@ -1,15 +1,15 @@
 <!-- Change  -->
-<!-- 27-02-2026, Mobile4You, 7828988223, Shree Nagar, Kakad (Near Raza Masjid) -->
+<!-- [dateOfUpdate], [shopName], [shopPhoneNumber], [shopAddress] -->
 
 # Privacy Policy
 
-Effective Date: 27-02-2026
+Effective Date: [dateOfUpdate]
 
-I/we Mobile4You is a shop owner for this app and has access aof administrative panel within this app..
+I/we [shopName] is a shop owner for this app and has access aof administrative panel within this app..
 
 This Privacy Policy applies to mobile applications developed and published by Aaspas Team under its Software as a Service (SaaS) platform.
 
-Each application is operated for an Mobile4You but is owned, maintained, and distributed by Aaspas.
+Each application is operated for an [shopName] but is owned, maintained, and distributed by Aaspas.
 
 By installing and using this application, you agree to this Privacy Policy.
 
@@ -20,9 +20,9 @@ By installing and using this application, you agree to this Privacy Policy.
 This application is a proprietary software product developed and owned by Aaspas .
 
 - Source code ownership belongs exclusively to Aaspas.
-- The application is licensed to Mobile4You under specific terms.
-- Mobile4You do not own the application or its source code.
-- Mobile4You are granted limited rights to use the platform under Aaspas [terms and condition](https://aaspas.github.io/privacy-policies/aaspas-terms-and-conditions.md).
+- The application is licensed to [shopName] under specific terms.
+- [shopName] do not own the application or its source code.
+- [shopName] are granted limited rights to use the platform under Aaspas [terms and condition](https://aaspas.github.io/privacy-policies/aaspas-terms-and-conditions.md).
 
 ---
 
@@ -30,9 +30,9 @@ This application is a proprietary software product developed and owned by Aaspas
 
 This application does not require customer registration or login.
 
-However, Mobile4You may access an administrative panel within the app using secure credentials.
+However, [shopName] may access an administrative panel within the app using secure credentials.
 
-Admin login access is restricted solely to the respective Mobile4You.
+Admin login access is restricted solely to the respective [shopName].
 
 ---
 
@@ -71,7 +71,7 @@ https://policies.google.com/privacy
 
 ## 5. Content Responsibility
 
-Mobile4You are solely responsible for:
+[shopName] are solely responsible for:
 
 - Product images
 - Product names
@@ -80,9 +80,9 @@ Mobile4You are solely responsible for:
 - Offers and promotional content
 - Use of logos, brand names, and taglines
 
-Aaspas does not verify ownership of trademarks or intellectual property uploaded by Mobile4You.
+Aaspas does not verify ownership of trademarks or intellectual property uploaded by [shopName].
 
-Mobile4You is solely responsible for ensuring that their content does not violate copyright, trademark, or applicable laws.
+[shopName] is solely responsible for ensuring that their content does not violate copyright, trademark, or applicable laws.
 
 ---
 
@@ -98,7 +98,7 @@ All intellectual property rights related to:
 
 are exclusively owned by Aaspas.
 
-Mobile4You are granted a limited, non-transferable, non-exclusive license to use the application under agreed SaaS [terms and condition](https://aaspas.github.io/privacy-policies/aaspas-terms-and-conditions.md).
+[shopName] are granted a limited, non-transferable, non-exclusive license to use the application under agreed SaaS [terms and condition](https://aaspas.github.io/privacy-policies/aaspas-terms-and-conditions.md).
 
 ---
 
@@ -128,12 +128,13 @@ We may update this Privacy Policy periodically. Updates will be reflected with a
 ---
 
 ## 10. Contact Information
-Shop Owner: Mobile4You
-Phone: +91-7828988223
-Address: Shree Nagar, Kakad (Near Raza Masjid) Indore Pin code 452016
+Shop Owner: [shopName]
+Phone: [shopPhoneNumber]
+Address: [shopAddress]
 
 Software provider Name: Aaspas  
 Email: [aaspas.ai@protonmail.com](mailto:aaspas.ai@protonmail.com)
+
 
 ---
 
@@ -147,7 +148,7 @@ Aaspas processes digital personal data in compliance with the Digital Personal D
 
 Aaspas acts as a Data Fiduciary for technical data processed through the application platform.
 
-Mobile4You act as independent Data Fiduciaries for any business-related content or customer interactions conducted through the app.
+[shopName] act as independent Data Fiduciaries for any business-related content or customer interactions conducted through the app.
 
 ### 2. Nature of Data Collected
 

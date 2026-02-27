@@ -1,8 +1,6 @@
 # Privacy Policy
 
-Effective Date: [dateOfUpdate]
-
-I/we [shopName] is shop owner for this app.
+Effective Date: [DATE]
 
 This Privacy Policy applies to mobile applications developed and published by Aaspas Team under its Software as a Service (SaaS) platform.
 
@@ -38,8 +36,11 @@ Admin login access is restricted solely to the respective shop owner.
 We do not require customers to provide:
 
 - Name
+- Email address
 - Phone number
+- Location
 - Contacts
+- Media files
 
 Customers can browse and use the app without submitting personal information.
 
@@ -95,7 +96,7 @@ All intellectual property rights related to:
 
 are exclusively owned by Aaspas.
 
-Shop owners are granted a limited, non-transferable, non-exclusive license to use the application under agreed SaaS terms and condition.
+Shop owners are granted a limited, non-transferable, non-exclusive license to use the application under agreed SaaS terms.
 
 ---
 
@@ -125,8 +126,7 @@ We may update this Privacy Policy periodically. Updates will be reflected with a
 ---
 
 ## 10. Contact Information
-Shop Owner Name: [Shop Name]
-Phone: [shopPhoneNumber]
 
-Software provider Name: Aaspas  
-Email: [aaspas.ai@protonmail.com]
+Company Name: Aaspas  
+Email: [SUPPORT EMAIL]  
+Website: [WEBSITE URL]
