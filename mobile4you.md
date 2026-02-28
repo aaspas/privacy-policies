@@ -1,6 +1,3 @@
-<!-- Change  -->
-<!-- 27-02-2026, Mobile4You, 7828988223, Shree Nagar, Kakad (Near Raza Masjid) -->
-
 # Privacy Policy
 
 Effective Date: 27-02-2026
