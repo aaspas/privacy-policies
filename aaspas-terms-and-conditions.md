@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective Date: [DATE]
+Effective Date: 27-02-2026
 
 These Terms of Service govern the use of applications developed and published by Aaspas (“Company”).
 
